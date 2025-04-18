@@ -100,8 +100,6 @@ PDE4434_INTELLIGENT_SENSING_CW2/
 └── requirements.txt         # Python dependencies
 ```
 
-## Acknowledgments
+## Demo Video
 
-Special thanks to:
-- The OpenCV and Python communities for their excellent libraries.
-- The course `PDE4434 Intelligent Sensing` for inspiring this project.
+https://www.youtube.com/watch?v=sa3NrbzPAWQ
